@@ -15,9 +15,9 @@ the most advanced method of preventing the ransome from encrypting data many tim
 
 
 
-""you can contact me on my :- 
-or on twitter: @Hossam59215885
-whatsapp  : +2001557542414""
+**you can contact me on my :- 
+or on twitter: @Hossam59215885      
+whatsapp  : +2001557542414**
 
 
 
