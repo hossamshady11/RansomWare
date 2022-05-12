@@ -1,6 +1,5 @@
 # RansomeWare
-this is testing ransome and its code is fully commented not to harm your device
-"This is a real ransomeware and that is for only educational purpose "
+"This is a real ransomeware , its code is fully commented not to harm your device and that is for only educational purpose "
 I'm not responsible for the misuse of this ransome 
 
 #explaining the tecneque of the ransome
@@ -12,6 +11,7 @@ file that is imposible to return data cause the space was busy then after that m
 and if you want it more advanced you can encrypt the key by using RSA encrytion. here are many things advanced like making file encrypt
 itself after finishing its task to prevent anyone from analysing it 
 
+the most advanced method of preventing the ransome from encrypting data many times I copied the path of it to appdata with windows.exe and moved it to the memory of current user and software\microsoft\windows\currentVersion\run to make it encrypt all the new files and data every time the device restart and make it impossible to be killed 
 
 
 
