@@ -11,7 +11,14 @@ file that is imposible to return data cause the space was busy then after that m
 and if you want it more advanced you can encrypt the key by using RSA encrytion. here are many things advanced like making file encrypt
 itself after finishing its task to prevent anyone from analysing it 
 
-the most advanced method of preventing the ransome from encrypting data many times I copied the path of it to appdata with windows.exe and moved it to the memory of HKCU\Software\Microsoft\Windows\CurrentVersion\Run to make it encrypt all the new files and data every time the device restart and make it impossible to be killed 
+the most advanced method of preventing the ransome from encrypting data many times I copied the path of it to appdata with windows.exe and moved it to the memory of HKCU\Software\Microsoft\Windows\CurrentVersion\Run to make it encrypt all the new files and data every time the device restart and make it impossible to be killed before encrypting itself it makes messge for the user in desktop containg all the details the hacker want from the victim 
+
+
+
+""you can contact me on my :- 
+or on twitter: @Hossam59215885
+whatsapp  : +2001557542414""
+
 
 
 
