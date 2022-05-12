@@ -2,7 +2,7 @@
 "This is a real ransomeware , its code is fully commented not to harm your device and that is for only educational purpose "
 I'm not responsible for the misuse of this ransome 
 
-# explaining the tecneque of the ransome
+## explaining the tecneque of the ransome
 
 first the python script used to scan the files of the device with the extensions of the list put in the script then it returns all the
 pahts of these extensions and you can put the path that you wanna begain from i have selected C:\ and after that taking the result 
