@@ -35,7 +35,7 @@ you can edit on it before running it but don't do that on your personal pc
 if you wanna merge it on photo or pdf or app please contact me below 
 
 
-#read and run
+## read and run
 if you are using #windows use notepad to open the file or any python editors 
 if you wanna run that file you can go its location and double click on it or go to cmd <br />
 and use python Ransomware.py
@@ -43,7 +43,7 @@ and use python Ransomware.py
 
 -----------------------------------------------
 
-**you can contact me on my :- 
+** you can contact me on my :- 
 or on twitter: www.twitter.com/Hossam59215885      
 whatsapp  : +2001557542414 **
 
