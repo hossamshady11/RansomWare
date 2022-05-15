@@ -20,7 +20,9 @@ it to appdata with windows.exe and moved it to the memory of HKCU\Software\Micro
 to make it encrypt all the new files and data every time the device restart and make it impossible to be <br />
 killed before encrypting itself it makes messge for the user in desktop containg all the details the hacker<br />
 want from the victim <br />
+
 ----------------------------------
+
 # installion 
 if you using linux :- 
 
