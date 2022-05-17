@@ -45,7 +45,6 @@ and use python Ransomware.py
 
 ** you can contact me on my :- 
 or on twitter: www.twitter.com/Hossam59215885      
-whatsapp  : +2001557542414 **
 
 
 
